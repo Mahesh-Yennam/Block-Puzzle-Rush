@@ -2,26 +2,7 @@
 
 A vibrant, addictive 10x10 jewel polyomino block puzzle web game built with pure vanilla JavaScript, HTML5 DOM grid, and the Web Audio API. Drag block shapes onto the board, fill complete horizontal rows and vertical columns to vaporize them, build streak multipliers, and chase record high scores.
 
-Part of the [Gamility](https://mahesh-yennam.github.io/Gamility/) web games collection. Fully configured to run as an **independent standalone repository** on GitHub Pages or embedded directly within the Gamility portal.
-
----
-
-## 🚀 1-Click GitHub Pages Deployment
-
-To host this repository independently on GitHub Pages:
-1. Initialize a new GitHub repository (e.g. `https://github.com/Mahesh-Yennam/block-puzzle-rush`).
-2. Push all files from this folder directly into the repository root:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit - Block Puzzle Rush Standalone"
-   git branch -M main
-   git remote add origin https://github.com/Mahesh-Yennam/block-puzzle-rush.git
-   git push -u origin main
-   ```
-3. On GitHub, navigate to **Settings** > **Pages**.
-4. Under **Source / Branch**, select `main` and root `/`, then click **Save**.
-5. Your standalone game is instantly live at `https://<your-username>.github.io/block-puzzle-rush/`!
+Part of the [Gamility](https://mahesh-yennam.github.io/Gamility/) web games collection. Fully configured to run as an **independent standalone repository** or embedded directly within the Gamility portal.
 
 ---
 
