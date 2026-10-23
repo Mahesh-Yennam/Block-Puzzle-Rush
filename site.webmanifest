@@ -1,0 +1,18 @@
+{
+  "name": "Block Puzzle Rush - 10x10 Jewel Block Puzzle",
+  "short_name": "BlockPuzzle",
+  "description": "Addictive 10x10 polyomino block puzzle game. Place jewel blocks, clear lines, and build combo streaks.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070913",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
